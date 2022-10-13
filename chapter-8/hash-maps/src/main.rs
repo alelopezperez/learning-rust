@@ -12,7 +12,7 @@ fn main() {
     println!("{}", map["ads"]);
     println!("{}", map.get(f).unwrap());
 
-    let cpy = map.get(f).unwrap().clone();
+    let cpy = map.get(f).unwrap().clone(); // get needs a ref of the type of key
     let capi = map.get(f).copied().unwrap_or(1);
 
     for k in &map {
