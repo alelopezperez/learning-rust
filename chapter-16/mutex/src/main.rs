@@ -28,4 +28,4 @@ fn main() {
 
     println!("Result is {}", counter.lock().unwrap());
 }
-// with atomicRc Arc we can safely garantue rc's counter of mutex
+// with atomicRc Arc we can safely garantue rc's counter of mutex   
