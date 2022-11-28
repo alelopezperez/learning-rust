@@ -1,0 +1,1 @@
+/home/ale/Desktop/Ale/learning-rust-again/chapter-20/hello/target/debug/hello: /home/ale/Desktop/Ale/learning-rust-again/chapter-20/hello/src/lib.rs /home/ale/Desktop/Ale/learning-rust-again/chapter-20/hello/src/main.rs
