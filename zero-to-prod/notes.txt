@@ -23,3 +23,12 @@ Continious Integration
 
     https://gist.github.com/LukeMathWalker/5ae1107432ce283310c3e601fac915f3
         - Contains the skeleton for CI
+
+tests
+    Embbeded Test: is write in the code file, it can access private func etc.
+    External test: tests/ foler that creates it's own bin. it respect the private visibilities
+    doc test:
+
+Workspace:
+    one lib
+    multiple bin
